@@ -1,0 +1,6 @@
+# ninja log v6
+5	15	7758394632564398	clean	9c4b4372737ab8da
+2	5927	7758395420354937	CMakeFiles/VulkanTriangle.dir/main.cpp.obj	b917fc1b17be7ae4
+5935	6141	7758395479680771	VulkanTriangle.exe	b139ace252b9448b
+8	5688	7758396128338349	CMakeFiles/VulkanTriangle.dir/main.cpp.obj	b917fc1b17be7ae4
+5688	5885	7758396185145454	VulkanTriangle.exe	b139ace252b9448b

@@ -1,0 +1,14 @@
+{
+    "cmake.generator": "Ninja",
+    "cmake.configureEnvironment": {
+        "CC": "C:/msys64/mingw64/bin/gcc.exe",
+        "CXX": "C:/msys64/mingw64/bin/g++.exe"
+    },
+    "cmake.environment": {
+        "PATH": "C:/msys64/mingw64/bin;${env:PATH}"
+    },
+    "cmake.preferredGenerators": [
+        "Ninja",
+        "MinGW Makefiles"
+    ]
+}

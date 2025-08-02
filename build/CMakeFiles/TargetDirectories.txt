@@ -1,0 +1,3 @@
+C:/Users/Lenovo E14/Documents/test/build/CMakeFiles/VulkanTriangle.dir
+C:/Users/Lenovo E14/Documents/test/build/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo E14/Documents/test/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Lenovo E14/Documents/test/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DVK_USE_PLATFORM_WIN32_KHR -D_AMD64_ -IC:/VulkanSDK/1.4.321.1/Include -g -std=gnu++17 -o CMakeFiles\\VulkanTriangle.dir\\main.cpp.obj -c \"C:\\Users\\Lenovo E14\\Documents\\test\\main.cpp\"",
+  "file": "C:/Users/Lenovo E14/Documents/test/main.cpp",
+  "output": "C:/Users/Lenovo E14/Documents/test/build/CMakeFiles/VulkanTriangle.dir/main.cpp.obj"
+}
+]
